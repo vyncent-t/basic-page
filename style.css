@@ -32,6 +32,7 @@ a {
     margin-top: -20px;
     color: #fff;
 }
+
 .bot {
     background-color: #22223B;
     height: 90px;
@@ -60,7 +61,7 @@ a {
     position: relative;
 }
 
-img {
+.mainimg {
     width: 300px;
     background-color: #9A8C98;
     padding: 20px;
@@ -71,3 +72,8 @@ img {
     position: absolute;
 }
 
+.inputs {
+    border: solid 5px #F2E9E4;
+    border-radius: 20%;
+    display: block;
+}
